@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    font-family: 'Dela Gothic One', cursive;
+}
+.encabezado{
+    background-color: #eac926;
+}
+
+.logo{
+    width: 175px; ;
+    margin-left: 10px;
+    margin-top: 20px;
+
+}
+.formulario{
+    margin-left: 10px;
+}
+.fa-magnifying-glass{
+    background-color: white;
+    border: 1px solid black;
+}
+.titular {
+    text-align: center;
+    margin: 5px;
+}
+
+.h3 { font-size: 12px;
+}
+.precio {
+    font-size: 18px;
+}
+.descuento {
+    font-size: 16px;
+}
+li a{
+    text-decoration-line: none;
+    color: black;
+}
+.burger-menu{
+    width: 30px;
+    height: 30px;
+    background-color: #1259c3;
+    border-radius: 4px;
+    margin: auto;
+    text-align: center;
+    
+    }
+.fas{ color: white;
+    padding-top: 5px;
+    margin: auto;
+    }    
+.info {
+    text-align: center;
+    margin: 50px;
+}    
+.iconos {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #1259c3;
+}
